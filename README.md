@@ -1,5 +1,4 @@
 1. Apa kesulitan yang Anda temui saat menghubungkan Laravel dengan database?
-<br>
 Kesulitan yang saya temui ada pada bagian konfigurasi file .env, terutama saat menyesuaikan nama database, username, dan password agar sesuai dengan pengaturan di Laragon. Saya juga sempat mengalami error karena tabel belum dibuat atau nama tabel tidak sesuai dengan yang digunakan oleh model Laravel. Dari situ saya jadi lebih paham pentingnya penamaan tabel dan proses migration.
 <br>
 2. Bagaimana perbedaan proses CRUD di Laravel dibandingkan dengan PHP murni?
